@@ -6,8 +6,6 @@
 - ESLint + Prettier
 - Jest + React Testing Library
 - Redux + Redux Thunk
-- Winston Logger
-- Tailwind CSS
 - SASS
 - Bootstrap Css 4.4.1
 - Font Awesome Css 5.15.3
